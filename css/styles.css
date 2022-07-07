@@ -139,7 +139,7 @@ p{
 #footer i{
     padding: 0.5rem;
 }
-@media screen and (min-width: 375px){
+@media screen and (min-width:50px) and (max-width: 1005px){
     .title-image{
         position: static;
         padding: 1rem;
@@ -150,6 +150,7 @@ p{
     }
     .butts{
         width: 100rem;
+        margin-bottom: 3rem;
     }
     
 }
