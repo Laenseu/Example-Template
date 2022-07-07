@@ -139,7 +139,7 @@ p{
 #footer i{
     padding: 0.5rem;
 }
-@media screen and (max-width: 900px){
+@media screen and (min-width: 375px){
     .title-image{
         position: static;
         padding: 1rem;
